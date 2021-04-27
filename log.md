@@ -18,3 +18,12 @@ https://www.geeksforgeeks.org/recursive-functions/
 
 **Link(s) to work**:
 https://youtu.be/oBt53YbR9Kk
+
+### Day 3: 27-04-2021
+
+**Today's Progress**: Advanced in dynamic programming with a little difficult problems.
+
+**Thoughts**:
+
+**Link(s) to work**:
+https://youtu.be/oBt53YbR9Kk
