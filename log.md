@@ -27,3 +27,12 @@ https://youtu.be/oBt53YbR9Kk
 
 **Link(s) to work**:
 https://youtu.be/oBt53YbR9Kk
+
+### Day 4: 28-04-2021
+
+**Today's Progress**: Did canSum, HowSum and bestSum from this video tried to implement it in cpp but getting segmentation error in some cases.
+
+**Thoughts**: Will work on this tomorrow.
+
+**Link(s) to work**:
+https://youtu.be/oBt53YbR9Kk
