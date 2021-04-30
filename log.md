@@ -36,3 +36,21 @@ https://youtu.be/oBt53YbR9Kk
 
 **Link(s) to work**:
 https://youtu.be/oBt53YbR9Kk
+
+### Day 5: 29-04-2021
+
+**Today's Progress**: Completed memoization and saw brief introduction of tabulation. 
+
+**Thoughts**:
+
+**Link(s) to work**:
+https://youtu.be/oBt53YbR9Kk
+
+### Day 6: 30-04-2021
+
+**Today's Progress**: started Data structures. Learned how to create linked list, add element at the end and begining.
+
+**Thoughts**:
+
+**Link(s) to work**:
+https://youtu.be/B31LgI4Y4DQ
