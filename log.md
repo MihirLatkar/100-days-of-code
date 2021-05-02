@@ -54,3 +54,21 @@ https://youtu.be/oBt53YbR9Kk
 
 **Link(s) to work**:
 https://youtu.be/B31LgI4Y4DQ
+
+### Day 7: 1-05-2021
+
+**Today's Progress**: Insert element at n th position in linked list. Not much but stuck in implementation for a considerable time due to segmentation fault.
+
+**Thoughts**:
+
+**Link(s) to work**:
+https://youtu.be/B31LgI4Y4DQ
+
+### Day 8: 2-05-2021
+
+**Today's Progress**: Deleting element from nth position in linked list. Reversing linked list using iterative method and recursive method and completed linked list.
+
+**Thoughts**:
+
+**Link(s) to work**:
+https://youtu.be/B31LgI4Y4DQ
