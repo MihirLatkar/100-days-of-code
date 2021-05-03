@@ -72,3 +72,12 @@ https://youtu.be/B31LgI4Y4DQ
 
 **Link(s) to work**:
 https://youtu.be/B31LgI4Y4DQ
+
+### Day 9: 3-05-2021
+
+**Today's Progress**: Practised some questions of linked list. Learned doubly linked list and implemented on my own.
+
+**Thoughts**:
+
+**Link(s) to work**:
+https://youtu.be/B31LgI4Y4DQ
