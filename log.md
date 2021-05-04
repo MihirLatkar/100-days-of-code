@@ -81,3 +81,12 @@ https://youtu.be/B31LgI4Y4DQ
 
 **Link(s) to work**:
 https://youtu.be/B31LgI4Y4DQ
+
+### Day 10: 4-05-2021
+
+**Today's Progress**: Started stack and implimented using array and linked list. Used stack to reverse a string and reverse a linked list. Wrote a program which can identify if brackets are correctly opened and closed in given string using stack,
+
+**Thoughts**:
+
+**Link(s) to work**:
+https://youtu.be/B31LgI4Y4DQ
