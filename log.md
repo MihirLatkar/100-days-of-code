@@ -99,3 +99,12 @@ https://youtu.be/B31LgI4Y4DQ
 
 **Link(s) to work**:
 https://youtu.be/B31LgI4Y4DQ
+
+### Day 12: 6-05-2021
+
+**Today's Progress**: Started tree in data structures. learned about binary tree and binary search tree. Implemented Binary search tree in cpp.
+
+**Thoughts**:
+
+**Link(s) to work**:
+https://youtu.be/B31LgI4Y4DQ
