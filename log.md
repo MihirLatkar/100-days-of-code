@@ -108,3 +108,20 @@ https://youtu.be/B31LgI4Y4DQ
 
 **Link(s) to work**:
 https://youtu.be/B31LgI4Y4DQ
+
+### Day 13: 7-05-2021
+
+**Today's Progress**: learned how to traverse a tree by breath first and depth first search.
+
+**Thoughts**:
+
+**Link(s) to work**:
+https://youtu.be/B31LgI4Y4DQ
+
+### Day 14: 11-05-2021
+
+**Today's Progress**: Solved some problems from codechef may challenge. Got 3 for now.
+
+**Thoughts**:
+
+**Link(s) to work**:
