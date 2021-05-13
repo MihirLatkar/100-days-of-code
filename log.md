@@ -125,3 +125,19 @@ https://youtu.be/B31LgI4Y4DQ
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 15: 12-05-2021
+
+**Today's Progress**: Solved 4th from codechef may challenge. tried whole day but did not got it fully.
+
+**Thoughts**: next time 5 question goal for long challenges.
+
+**Link(s) to work**:
+
+### Day 16: 13-05-2021
+
+**Today's Progress**: Started to solve DSA questions from codechef. Today did Getting started questions.
+
+**Thoughts**:
+
+**Link(s) to work**:
