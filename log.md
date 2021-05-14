@@ -138,6 +138,14 @@ https://youtu.be/B31LgI4Y4DQ
 
 **Today's Progress**: Started to solve DSA questions from codechef. Today did Getting started questions.
 
-**Thoughts**:
+**Thoughts**:https://www.codechef.com/LEARNDSA?order=desc&sortBy=successful_submissions
+
+**Link(s) to work**:
+
+### Day 17: 14-05-2021
+
+**Today's Progress**: Continued solving DSA problems. Did complexity analysis + basic warm up topic although two question are remaining.
+
+**Thoughts**:https://www.codechef.com/LEARNDSA?order=desc&sortBy=successful_submissions
 
 **Link(s) to work**:
